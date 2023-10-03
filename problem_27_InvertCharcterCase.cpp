@@ -26,7 +26,7 @@ int main()
 {
 	char Ch1 = ReadCharcter();
 
-	cout << "\nCharcter after invert :\n";
+	cout << "\nCharcter after inverting :\n";
 	cout << InvertLetterCase(Ch1) << endl;
 
 	return 0;
